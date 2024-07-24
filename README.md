@@ -20,3 +20,13 @@ The dataset used in this project is the [Wine Quality Data Set from the UCI Mach
 - Sulphates
 - Alcohol
 - Quality (target variable)
+
+The data files included in this project are:
+
+- winequality-red.csv: Data for red wine variants.
+- winequality-white.csv: Data for white wine variants.
+- winequality.names: Description of the dataset features.
+
+# Quality Distribution
+The histograms show the distribution of quality ratings for both red and white wines
+

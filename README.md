@@ -35,7 +35,7 @@ The histograms show the distribution of quality ratings for both red and white w
 # Correlation of Features
 The heatmap shows how different physicochemical properties correlate with each other and with the quality rating.
 
-![Correlation of Wine Features](/Images/features_corr.png)
+![Correlation of Wine Features](/Images/features_co.png)
 
 # Usage
 

@@ -28,5 +28,39 @@ The data files included in this project are:
 - winequality.names: Description of the dataset features.
 
 # Quality Distribution
-The histograms show the distribution of quality ratings for both red and white wines
+The histograms show the distribution of quality ratings for both red and white wines.
+
+![Wine Quality Distribution](/Images/quality_distribution.png)
+
+# Correlation of Features
+The heatmap shows how different physicochemical properties correlate with each other and with the quality rating.
+
+![Correlation of Wine Features](/Images/features_corr.png)
+
+# Usage
+
+The project is structured in a Jupyter notebook. You can run the notebook to see the data analysis, preprocessing steps, and model training. To start the notebook, use the command:
+
+jupyter notebook wine_quality_project.ipynb
+
+Modeling
+
+The project explores several machine learning models to predict wine quality, including:
+
+- Logistic Regression
+- Random Forest
+- MLPClassifier
+
+Each model is evaluated using appropriate metrics, and hyperparameter tuning is performed to improve performance.
+
+# Results
+
+The performance of each model is evaluated based on accuracy, precision, recall, and F1 score. The results are compared to determine the best-performing model for predicting wine quality.
+
+# Contributing
+
+Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
+
+
+
 

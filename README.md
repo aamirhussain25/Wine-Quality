@@ -28,5 +28,9 @@ The data files included in this project are:
 - winequality.names: Description of the dataset features.
 
 # Quality Distribution
-The histograms show the distribution of quality ratings for both red and white wines
+The histograms show the distribution of quality ratings for both red and white wines.
+
+![Wine Quality Distribution](/Images/quality_distribution.png)
+
+
 
